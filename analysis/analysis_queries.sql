@@ -1,4 +1,4 @@
-USE OTT;
+USE ott;
 
 -- 1. How many total users are registered on the platform?
 SELECT COUNT(*) AS total_users
