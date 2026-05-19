@@ -112,7 +112,7 @@ Performed exploratory analysis on:
 
 # Analysis Performed
 
-## 👤 User Analysis
+## User Analysis
 
 * Active users
 * Monthly Active Users (MAU)
@@ -155,12 +155,12 @@ Performed exploratory analysis on:
 
 # Key Insights
 
-✅ Action genre drives highest engagement
-✅ Premium 4K generates maximum revenue
-✅ Indian users contribute majority of traffic
-✅ Higher watch duration leads to better ratings
-✅ Inactive users show high churn probability
-✅ Premium users are highly engaged
+* Action genre drives highest engagement
+* Premium 4K generates maximum revenue
+* Indian users contribute majority of traffic
+* Higher watch duration leads to better ratings
+* Inactive users show high churn probability
+* Premium users are highly engaged
 
 ---
 
