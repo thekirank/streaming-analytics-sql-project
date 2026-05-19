@@ -1,4 +1,4 @@
-## streaming-analytics-sql-project
+# streaming-analytics-sql-project
 <img width="1883" height="835" alt="ChatGPT Image May 8, 2026, 12_01_14 AM" src="https://github.com/user-attachments/assets/6feed241-14f5-4514-ad23-fbb4912d4212" />
 
 # Project Overview
