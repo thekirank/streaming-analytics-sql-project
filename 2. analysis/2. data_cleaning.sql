@@ -219,3 +219,4 @@ FROM UserEngagement;
 SELECT COUNT(*) AS active_subscriptions
 FROM UserSubscriptions
 WHERE status = 'ACTIVE';
+
