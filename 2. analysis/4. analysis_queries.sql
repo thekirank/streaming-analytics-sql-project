@@ -835,3 +835,4 @@ ORDER BY avg_engagement DESC;
 -- ANSWER:
 -- Premium 4K users show highest engagement.
 -- Premium HD users are second highest.
+
