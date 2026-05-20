@@ -148,6 +148,6 @@ This document provides a structured overview of the "OTT Platform Database Schem
 | Users             | 1-to-many         | User_Engagement      | One user can engage with multiple content items  |
 | Content           | 1-to-many         | User_Engagement      | One content item can be watched by many users    |
 
----
+-----
 */
 
