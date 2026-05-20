@@ -308,3 +308,4 @@ ORDER BY total_watch_time DESC;
 -- User 126 = 5 sessions, 739 mins, avg rating 3.6
 -- User 89 = 4 sessions, 627 mins, avg rating 4.0
 -- User 91 = 6 sessions, 518 mins, avg rating 2.8
+
